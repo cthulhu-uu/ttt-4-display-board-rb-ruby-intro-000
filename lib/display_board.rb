@@ -7,3 +7,7 @@ def display_board(board = " ")
   puts " #{board[6]} | #{board[7]} | #{board[8]} "
 end
 # out the current state.
+
+board = [0,X,0]
+
+display_board(board)
