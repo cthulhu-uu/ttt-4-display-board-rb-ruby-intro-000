@@ -8,6 +8,6 @@ def display_board(board = [" ", " ", " ", " ", " ", " ", " ", " ", " "])
 end
 # out the current state.
 
-board = ["O","x","O"]
+board = ["O","x","O", " ", " ", " ", " ", " ", " ", ]
 
 display_board(board)
